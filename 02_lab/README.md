@@ -1,0 +1,2 @@
+- calling `make` or `make default` will compile and run HelloWorld.java
+- calling `make ARGS=N` or `make default ARGS=N` is equivalent to `java HelloWorld N`
